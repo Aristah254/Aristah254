@@ -21,8 +21,8 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | Content 
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :paperclip: [My Resume/CV](https://github.com/Aristah254/Aristah254/blob/master/resumes/resume%20v1.0.pdf)
+- :email: atsewaj@gmail.com
 
 
 #### Profile Visits 
