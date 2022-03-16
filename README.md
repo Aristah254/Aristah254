@@ -1,6 +1,6 @@
 ## Hi I'm Aristah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | Content Creator on [Youtube](#). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consultant | Software Engineer. I Spend most of time coding outstanding projects or recording tutorials.
 
 
 
