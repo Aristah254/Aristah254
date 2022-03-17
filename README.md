@@ -1,16 +1,17 @@
 ## Hi I'm Aristah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consultant | Software Engineer. I Spend most of time coding outstanding projects or recording tutorials.
+I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consultant | Software Engineer. I Spend most of my time coding and Learning New Technologies, I Also enjoy playing Chess during my free time. I Am the Founder of Else Lab Technologies.
 
 
 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Else Lab Technologies
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🔭 I’m currently working at @Else Lab Technologies as an Android/IOS software Developer
 - 🤔 I’m Make Android and IOs Applications
+- 🤔 I’m Also A Freelancer - I Develpp Websites and Softwares
 - 📫 How to reach me: atsewaj@gmail.com.
+- 📫 phone: (+254) 704 758 343
 - ⚡ Fun fact: I play Chess and go to the GYM very often.
 
 #### Top Technologies
