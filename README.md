@@ -18,7 +18,7 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consu
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Java Badge](https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&labelColor=black&logo=java&logoColor=FF0000)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![PHP Badge](https://img.shields.io/badge/-Php-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Laravel](https://img.shields.io/badge/-Laravel-e535ab?style=for-the-badge&labelColor=black&logo=laravel&logoColor=e535ab)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&labelColor=black&logo=java&logoColor=FF0000)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![PHP Badge](https://img.shields.io/badge/-Php-3C873A?style=for-the-badge&labelColor=black&logo=php&logoColor=3C873A)](#) [![Laravel](https://img.shields.io/badge/-Laravel-FF0000?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF0000)](#)
 
 
 #### Bizness
