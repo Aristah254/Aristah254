@@ -8,7 +8,7 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consu
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently a Student at Maseno University and working at @Else Lab Technologies as an Android/IOS software Developer
-- 🤔 I’m Make Android and IOs Applications
+- 🤔 I Develop Android and IOs Applications
 - 💥 I’m Also A Freelancer - I Develpp Websites and Softwares
 - 📧 How to reach me: atsewaj@gmail.com.
 - 📞 phone: (+254) 704 758 343
