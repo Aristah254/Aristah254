@@ -14,6 +14,7 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consu
 - 📞 phone: (+254) 704 758 343
 - ⚡ Fun fact: I play Chess and go to the GYM very often.
 
+
 #### Languages and Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -21,9 +22,11 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consu
 [![Java Badge](https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&labelColor=black&logo=java&logoColor=FF0000)](#) [![Spring Boot Badge](https://img.shields.io/badge/-SpringBoot-008000?style=for-the-badge&labelColor=black&logo=springboot&logoColor=008000)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Dart Badge](https://img.shields.io/badge/-Dart-007acc?style=for-the-badge&labelColor=black&logo=dart&logoColor=007acc)](#) [![PHP Badge](https://img.shields.io/badge/-Php-474A8A?style=for-the-badge&labelColor=black&logo=php&logoColor=474A8A)](#) [![Laravel](https://img.shields.io/badge/-Laravel-FF0000?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF0000)](#)
 
 
-#### Bizness
+#### For Business  
 - :paperclip: [My Resume/CV](https://github.com/Aristah254/Aristah254/blob/master/resumes/resume%20v1.0.pdf)
-- :email: atsewaj@gmail.com
+- 📧 email: atsewaj@gmail.com.
+- 📞 phone: (+254) 704 758 343
+- 🇰🇪: My Area of Residence
 
 
 #### Profile Visits 
