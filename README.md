@@ -8,7 +8,6 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | Content 
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @Else Lab Technologies
-- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m Make Android and IOs Applications
 - 📫 How to reach me: atsewaj@gmail.com.
 - ⚡ Fun fact: I play Chess and go to the GYM very often.
@@ -29,14 +28,14 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | Content 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aristah254.Aristah254)
 
-<details>
+
 <summary>
-  More stuff about me
+  More About Me
 </summary>
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love sharing knowledge and Also Am a good fun of Playing Chess
 
 
 #### Coding Stats
@@ -55,7 +54,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Aristah254&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
+
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
