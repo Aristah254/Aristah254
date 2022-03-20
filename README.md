@@ -37,24 +37,13 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consu
 I love sharing knowledge and Also Am a good fun of Playing Chess
 
 
-#### Coding Stats
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
 
 #### Github Stats
 
-![Aristah254's github stats](https://github-readme-stats.vercel.app/api?username=Aristah254&count_private=true&theme=tokyonight&hide=contribs,prs)
+
 <p align="center">
-  <a href="https://github.com/anorld-droid">
-    <img  src="https://github-readme-stats.vercel.app/api?username=Aristah254&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+![Aristah254's github stats](https://github-readme-stats.vercel.app/api?username=Aristah254&count_private=true&theme=tokyonight&hide=contribs,prs)
   </a>
   <a href="https://github.com/Aristah254">
     <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aristah254&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
@@ -63,7 +52,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 </details>
 <br>
 
-[![Aristah254's github activity graph](https://activity-graph.herokuapp.com/graph?username=anorld-droid&theme=react-dark)](https://github.com/Aristah254/github-readme-activity-graph)
+[![Aristah254's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aristah254&theme=react-dark)](https://github.com/Aristah254/github-readme-activity-graph)
 
 
 
