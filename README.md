@@ -34,12 +34,8 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consu
 
 
 <summary>
-  More About Me
+ #### More About Me
 </summary>
-
-<br >
-
-<<<<<<< HEAD
 I love sharing knowledge and Also Am a good fun of Playing Chess
 
 
