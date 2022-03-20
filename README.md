@@ -1,27 +1,38 @@
 ## Hi I'm Aristah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | Content Creator on [Youtube](#). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consultant | Software Engineer. I Spend most of my time coding and Learning New Technologies, I Also enjoy playing Chess during my free time. I Am the Founder of Else Lab Technologies.
 
 
 
 
 <!-- TODO: Add last video link -->
 
+<<<<<<< HEAD
 - 🔭 I’m currently working at @Else Lab Technologies
 - 🤔 I’m Make Android and IOs Applications
 - 📫 How to reach me: atsewaj@gmail.com.
+=======
+- 🔭 I’m currently a Student at Maseno University and working at @Else Lab Technologies as an Android/IOS software Developer
+- 🤔 I Develop Android and IOs Applications
+- 💥 I’m Also A Freelancer - I Develop Websites and Softwares
+- 📧 How to reach me: atsewaj@gmail.com.
+- 📞 phone: (+254) 704 758 343
+>>>>>>> 1b097cd5703f507780f9651ef97e97a23b7d742d
 - ⚡ Fun fact: I play Chess and go to the GYM very often.
 
-#### Top Technologies
+
+#### Languages and Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-5382a1?style=for-the-badge&labelColor=black&logo=java&logoColor=5382a1)](#) [![Spring Boot Badge](https://img.shields.io/badge/-SpringBoot-008000?style=for-the-badge&labelColor=black&logo=springboot&logoColor=008000)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Dart Badge](https://img.shields.io/badge/-Dart-007acc?style=for-the-badge&labelColor=black&logo=dart&logoColor=007acc)](#) [![PHP Badge](https://img.shields.io/badge/-Php-474A8A?style=for-the-badge&labelColor=black&logo=php&logoColor=474A8A)](#) [![Laravel](https://img.shields.io/badge/-Laravel-FF0000?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF0000)](#)
 
 
-#### Bizness
+#### For Business  
 - :paperclip: [My Resume/CV](https://github.com/Aristah254/Aristah254/blob/master/resumes/resume%20v1.0.pdf)
-- :email: atsewaj@gmail.com
+- 📧 email: atsewaj@gmail.com.
+- 📞 phone: (+254) 704 758 343
+- 🇰🇪: My Area of Residence
 
 
 #### Profile Visits 
@@ -35,7 +46,11 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | Content 
 
 <br >
 
+<<<<<<< HEAD
 I love sharing knowledge and Also Am a good fun of Playing Chess
+=======
+I love sharing knowledge and Solving Society Problems using Technology.
+>>>>>>> 1b097cd5703f507780f9651ef97e97a23b7d742d
 
 
 #### Coding Stats
@@ -52,12 +67,8 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Aristah254&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Aristah254's github stats](https://github-readme-stats.vercel.app/api?username=Aristah254&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
 
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
