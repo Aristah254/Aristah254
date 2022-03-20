@@ -33,9 +33,7 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consu
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aristah254.Aristah254)
 
 
-<summary>
  #### More About Me
-</summary>
 I love sharing knowledge and Also Am a good fun of Playing Chess
 
 
