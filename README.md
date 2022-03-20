@@ -42,9 +42,9 @@ I love sharing knowledge and Also Am a good fun of Playing Chess
 #### Github Stats
 
 
-<p align="center">
+
 ![Aristah254's github stats](https://github-readme-stats.vercel.app/api?username=Aristah254&count_private=true&theme=tokyonight&hide=contribs,prs)
-  </a>
+  
   <a href="https://github.com/Aristah254">
     <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aristah254&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
