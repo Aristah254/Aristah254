@@ -11,7 +11,6 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consu
 - 💥 I’m Also A Freelancer - I Develop Websites and Softwares
 - 📧 How to reach me: atsewaj@gmail.com.
 - 📞 phone: (+254) 704 758 343
->>>>>>> 1b097cd5703f507780f9651ef97e97a23b7d742d
 - ⚡ Fun fact: I play Chess and go to the GYM very often.
 
 
@@ -42,9 +41,6 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consu
 
 <<<<<<< HEAD
 I love sharing knowledge and Also Am a good fun of Playing Chess
-=======
-I love sharing knowledge and Solving Society Problems using Technology.
->>>>>>> 1b097cd5703f507780f9651ef97e97a23b7d742d
 
 
 #### Coding Stats
